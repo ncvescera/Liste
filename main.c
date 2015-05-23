@@ -21,8 +21,6 @@ int main(int argc, char** argv) {
     int i;
     int altri=-1;
     p=(elemento*)malloc(sizeof(elemento));
-    //printf("Inserisci un valore: ");
-    //scanf("%d",&(p->v));
     punt=p;
    
     while(altri!=0){
