@@ -6,6 +6,7 @@ struct s_elemento{
     struct s_elemento *next;
 };
 typedef struct s_elemento elemento;
+
 int main(int argc, char** argv) {
     elemento *p,*punt;
     int i;
